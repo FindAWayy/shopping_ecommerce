@@ -77,3 +77,4 @@ app.listen(PORT, (req, res) => {
   connectDB();
   console.log(`Server is runing on port ${PORT}`);
 });
+
